@@ -1,6 +1,6 @@
 # Virasat
 
-**An interactive guide to traditional Indian painting forms.**
+**An interactive guide to traditional Indian painting and art forms.**
 
 Virasat is a static educational website for exploring painting traditions associated with Indian states and union territories. Visitors can explore an interactive map, choose an art form, read its description, and browse a picture deck.
 
